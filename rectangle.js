@@ -1,3 +1,6 @@
+/*global $:true*/
+/*eslint linebreak-style: ["error", "windows"]*/
+
 $(function(){
     //get dom ele
     var $width=$("#width"),
@@ -20,6 +23,6 @@ $(function(){
         //output
         $perimeter.val(p);
         $area.val(a);
-    })
+    });
     
-})
+});
