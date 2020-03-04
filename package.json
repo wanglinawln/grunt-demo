@@ -19,10 +19,11 @@
   "homepage": "https://github.com/wanglinawln/grunt-demo#readme",
   "devDependencies": {
     "chai": "^4.2.0",
+    "grunt": "^1.0.4",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-mocha": "^0.4.12",
     "grunt-mocha-istanbul": "^5.0.2",
     "istanbul": "^0.4.5",
-    "mocha": "^7.0.1",
-    "grunt": ">=0.4.5",
-    "grunt-mocha": "^0.4.12"
+    "mocha": "^7.0.1"
   }
 }
