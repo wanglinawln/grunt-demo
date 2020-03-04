@@ -27,6 +27,7 @@
     "grunt-mocha-cli": "^5.0.0",
     "grunt-mocha-istanbul": "^5.0.2",
     "grunt-run": "^0.8.1",
+    "grunt-spritesmith": "^6.8.0",
     "istanbul": "^0.4.5",
     "mocha": "^7.0.1"
   }
